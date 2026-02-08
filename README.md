@@ -1,39 +1,76 @@
-# NestBox
+# Nest Box (Metric)
 
 ## Introduction
 
-This nest box is designed for chickadees, wrens, and other small birds. The entrance is 1-1/4" (~32mm) which should keep starlings and other larger birds out. For extra protection, you can glue or nail a piece of hardwood over the entrance, as you'll see in the image I provided of the fully assembled box.
+This nest box is designed for chickadees, wrens, and other small birds.  
+The entrance hole diameter is **32 mm**, which helps prevent access by starlings and other larger birds.
+
+For extra durability, a hardwood reinforcement plate can be glued or nailed over the entrance hole, as shown in the assembled example.
 
 ## Camera
 
-I purchased a relatively inexpensive camera on Aliexpress. There are a number of vendors who sell the same or similar product under other names. I chose the 5MP with a 2.8mm lens.
+I used a low-cost camera purchased from AliExpress. Several vendors sell the same or very similar models under different names. The version used here is:
+
+- **5 MP sensor**
+- **2.8 mm lens**
 
 https://www.aliexpress.us/item/3256802313550603.html
 
-If you purchase a different camera, you'll probably need to modify the camera mount and clamp. If running an Ethernet cable is an issue, this camera also supports WiFi. There's enough room above the camera mount to put a decent size battery inside, or you can run a DC power adapter into it.
+If you choose a different camera, you may need to adjust the camera mount and clamp dimensions. The camera supports Wi-Fi if running Ethernet is impractical. There is sufficient space above the camera mount to house a small battery, or a DC power cable can be routed into the box.
 
 ## Material
 
-I used 1x6 cedar for all the wood parts except for the hole reinforcement plate, which is white oak. The parts diagram assumes a true 3/4" thickness and 5-1/2" width. My cedar was undersized at 11/16" and I ran it through a planar to clean it up, taking it down to 5/8".
+All wooden parts are made from **cedar**, except for the entrance hole reinforcement plate, which is **white oak**.
 
-If your material is a different thickness, you'll need to adjust the width of the front back and roof appropriately. For example, for 5/8" material, my front and back were cut to 5-1/4" instead of 5-1/2". I left the roof at 5-1/2" so it's slightly proud on both sides.
+The design assumes nominal **1×6** material, converted to metric as:
+
+- **Thickness:** 19 mm (nominal)
+- **Width:** 140 mm
+
+My cedar stock measured approximately **17.5 mm thick** and was planed down to **16 mm** for consistency.
+
+Because of this reduced thickness, I adjusted some dimensions:
+- **Front and back panel width:** **133 mm**
+- **Roof width:** **140 mm**, intentionally left wider so it overhangs slightly on both sides
+
+If you use material with a different thickness, adjust the front, back, and roof widths accordingly.
 
 ## Assembly
 
-Assembly is pretty straightforward. I drilled out the holes for the dowel pin hinges. I chose to glue the dowel pins into the side rather than the front and back. I also attached cleats to the front and back to support the floor and simplify the assembly.
+Assembly is straightforward.
 
-I recommend using a water-resistant glue like Titebond III if you are planning to glue it together. I used glue and then tacked everything down with a pin nailer. Screws will also work - I suggest stainless or coated to prevent corrosion.
+- Dowel-pin hinges are used for the opening panel.
+- Dowels are glued into the **side panels**, not the front or back.
+- Cleats are attached to the front and back panels to support the floor and simplify alignment.
 
-I recommend not attaching the camera mount plate to the box. I undersized the mount plate slightly so I can pull it out and replace the camera.
+For adhesive, use a **water-resistant wood glue** suitable for exterior use (e.g. Titebond III). I glued all joints and secured them with a pin nailer. Screws may also be used; **stainless steel or coated screws** are recommended for corrosion resistance.
 
-I also cut a 1/4" vent on the front just below the roof to allow for some circulation. I used a 1/2" straight bit on the router table, but a jigsaw, coping saw, or chisel would also work.
+The camera mount plate is **not permanently fixed** to the box. It is slightly undersized so it can be removed for camera replacement or servicing.
+
+A ventilation slot is cut into the front panel just below the roof:
+- **Slot height:** 6 mm
+- **Tooling:** 12 mm straight router bit (jigsaw or chisel also works)
 
 ## Floor
-I recommend you make some accommodation for drainage in the floor. While the box itself should be reasonably water tight, it might get water sogged during a long rain. I cut a 45 degree about 1/2" in from each corner of the floor. Alternatively, you could drill holes in the corners - a 3/8" hole should suffice.
+
+Drainage is important to prevent water accumulation.
+
+I chamfered the floor corners as follows:
+- **45° chamfer**
+- **12 mm in from each corner**
+
+Alternatively, drill drainage holes:
+- **Diameter:** 10 mm
+- **Location:** near each corner
 
 ## Ventilation
-If you live in an area where it gets warm during nesting season, or if the box is subject to direct exposure to afternoon sun, you might want to add some ventilation to the sides of the box. This could be a 1/4" slot in each side just below the camera mount, or a series of holes.
 
-## 3D Printed Parts
+In warmer climates or locations with direct afternoon sun, additional side ventilation is recommended.
 
-I have included .STP and .STL files for the 3D printed parts. These are optional. You can buy hardware or fabricate them from wood instead.
+Options include:
+- One **6 mm horizontal slot** per side, positioned just below the camera mount
+- Multiple small ventilation holes per side
+
+## 3D-Printed Parts
+
+The project includes **.STEP** and **.STL** files for optional 3D-printed components. These parts may also be replaced with standard hardware or fabricated from wood if preferred.
